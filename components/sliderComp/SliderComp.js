@@ -56,7 +56,7 @@ const SliderComp = () => {
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
-									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked />
+									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked onChange={()=>{}} />
 								</div>
 								<p className='xz:text-xs sd:text-sm mt-2'>
 									Наша Машенька так радуется каждому дню в образовательном центре! Занятия для четырехлетнего ребенка оказались настоящим открытием. Веселые игры, творческие проекты и заботливые педагоги сделали обучение не только интересным, но и вдохновляющим для нашей малышки.
@@ -82,7 +82,7 @@ const SliderComp = () => {
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
-									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked />
+									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked onChange={()=>{}} />
 								</div>
 								<p className='xz:text-xs sd:text-sm mt-2'>
 									Марат полностью влюблен в уроки в образовательном центре! Он не только осваивает новые знания, но и развивает творческие навыки. Видеть, как наш мальчик с удовольствием идет на занятия, наполняет нас радостью и уверенностью в правильном выборе образовательного учреждения.
@@ -108,7 +108,7 @@ const SliderComp = () => {
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
-									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked />
+									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked onChange={()=>{}} />
 								</div>
 								<p className='xz:text-xs sd:text-sm mt-2'>
 									Милана преобразилась с момента поступления в образовательный центр. Увлекательные уроки, инновационные методики и теплая атмосфера привнесли в ее образование яркость и радость. Благодарны педагогам за терпение и индивидуальный подход!
@@ -134,7 +134,7 @@ const SliderComp = () => {
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
-									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked />
+									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked onChange={()=>{}} />
 								</div>
 								<p className='xz:text-xs sd:text-sm mt-2'>
 									Образовательный центр стал для нас настоящим партнером в воспитании Матвея. Здесь, помимо академических знаний, наш сын развивает лидерские качества и учится самостоятельности. Гордимся тем, как он расцветает под внимательным ведением опытных учителей.
@@ -160,7 +160,7 @@ const SliderComp = () => {
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
 									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" />
-									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked />
+									<input type="radio" name="rating-2" className="mask mask-star-2 bg-[#e8b846]" checked onChange={()=>{}} />
 								</div>
 								<p className='xz:text-xs sd:text-sm mt-2'>
 									С каждым годом образовательный центр приносит все новые и новые плоды в развитии Самира. Увлекательные проекты, поддержка творческих инициатив, а также дружелюбная атмосфера делают это место настоящим домом знаний. Большое спасибо команде за вдохновение и профессионализм!

@@ -25,7 +25,7 @@ const ProgramSection = ({handleOrderClick}) => {
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
-								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked />
+								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked onChange={()=>{}} />
 							</div>
 							<div className="badge badge-primary">2,5-3,5 года</div>
 							<div className='my-2 sd:h-16 xz:h-auto'>
@@ -63,7 +63,7 @@ const ProgramSection = ({handleOrderClick}) => {
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
-								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked />
+								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked onChange={()=>{}} />
 							</div>
 							<div className="badge badge-primary">3,5-6 лет</div>
 							<div className='my-2 sd:h-16 xz:h-auto'>
@@ -101,7 +101,7 @@ const ProgramSection = ({handleOrderClick}) => {
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
 								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" />
-								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked />
+								<input type="radio" name="rating-6" className="mask mask-star-2 bg-orange-400" checked onChange={()=>{}} />
 							</div>
 							<div className="badge badge-primary">7-12 лет</div>
 							<div className='my-2 sd:h-16 xz:h-auto'>
